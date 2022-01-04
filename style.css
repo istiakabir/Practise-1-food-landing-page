@@ -1,0 +1,160 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+#first-text{
+    color: orange;
+}
+
+.display{
+    display: flex;
+    margin-bottom: 100px;
+    
+    
+    
+}
+.first-element{
+    
+    padding-top: 50px;
+    padding-left: 100px;
+    width: 640px;
+    height: 249px;
+    left: 100px;
+    top: 260px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 50px;
+    
+}
+
+
+
+.first-image{
+
+    padding-left: 80px;
+    
+    width: 658.26px;
+    height: 718.92px;
+    left: 732px;
+    top: 150px;
+}
+
+.first-paragraph{
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+    margin-bottom: 50px;
+
+}
+
+.order-food-gredient{
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: 5px 20px;
+    border-radius: 150px;
+    display: inline-block;
+    font-size: 20px;
+    
+}
+
+.second-image{
+    position: left;
+    padding-left: 80px;
+    
+    
+}
+
+.second-element{
+    
+    width: 40%;
+    padding-top: 5%;
+    padding-left: 20%;
+}
+
+
+.second-background{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+.box-shadow{
+    
+    width: 90%;
+    margin-left: 60px;
+    margin-right: 30px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 70px;
+    box-shadow: 5px 30px 50px rgb(109, 109, 20);
+    border: 10px solid white;
+    border-radius: 10%;
+
+    
+    
+    
+    
+      
+}
+
+.img-box{
+
+    padding-top: 20px;
+    padding-right: 30px;
+    width: 120%;
+    height: 60%;
+    display: flex;
+    position: center;
+    align-items: center
+        
+    
+    
+    
+
+}
+
+#text-allign{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+#last-box{
+    
+    width: 900px;
+    margin-left: 20%;
+    height: 200px;
+    padding-right: 30px;
+    box-shadow: 5px 30px 50px rgb(109, 109, 20);
+    border: 10px solid white;
+    border-radius: 30px;
+}
+
+.last-text{
+
+    text-align: center;
+    margin-right: 160px;
+    padding-left: 60px;
+    padding-right: 20px;
+    font-size: 20px;
+    
+}
+
+footer {
+    text-align: center;
+    padding: 50px;
+    background-color: black;
+    color: white;
+
+}
+
